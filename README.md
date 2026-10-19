@@ -11,3 +11,10 @@ Android APK downloads.
 5. After installing, turn off "Allow from this source" again.
 
 This repository contains downloads and install instructions only.
+
+## Privacy and account deletion
+
+- [Privacy policy](https://chandangowdaks.github.io/nearby-job-finder-downloads/privacy-policy.html)
+- [Delete your account](https://chandangowdaks.github.io/nearby-job-finder-downloads/delete-account.html)
+
+These pages describe the app data and how to request deletion. App source code remains private.
